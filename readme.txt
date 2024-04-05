@@ -6,4 +6,6 @@ Git tracks changes of files.
 
 分支
 aadwkwh
-Creating a new branch is quick and simple   加了dev.
+Creating a new branch is quick and si吗
+
+ 第二个分支来了
