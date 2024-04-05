@@ -6,3 +6,4 @@ Git tracks changes of files.
 
 分支
 aadwkwh
+Creating a new branch is quick & simple.
